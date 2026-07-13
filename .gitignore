@@ -1,0 +1,25 @@
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Node ###
+node_modules/
+package-lock.json
+
+### Spring Boot ###
+target/
+build/
+*.class
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Logs ###
+*.log
+
+### Alita ###
+.alita/
+
